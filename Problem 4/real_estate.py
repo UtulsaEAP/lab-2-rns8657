@@ -1,4 +1,9 @@
+"""
+Name: Ryan Smith
 
+Lab Time: Thursday @2pm
+
+"""
 def real_estate():
     
     current_price = int(input())

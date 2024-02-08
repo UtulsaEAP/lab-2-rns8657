@@ -1,4 +1,9 @@
+"""
+Name: Ryan Smith
 
+Lab Time: Thursday @2pm
+
+"""
 def simple_stats():
     num1 = float(input())
     num2 = float(input())

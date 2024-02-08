@@ -1,3 +1,10 @@
+"""
+Name: Ryan Smith
+
+Lab Time: Thursday @2pm
+
+"""
+
 def telephone():
     phone_number = int(input())
     first_three_digits = phone_number // 10000000
